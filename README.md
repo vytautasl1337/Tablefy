@@ -27,3 +27,6 @@ The Table Summary Generator is a Python-based tool that processes data from a CS
 3. Install the required libraries:
    ```bash
    pip install pandas prettytable
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
